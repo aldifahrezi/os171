@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 aldi.fahrezi StafCS 4096 Feb 14 09:04 .
+drwx--x--x  4 aldi.fahrezi StafCS 4096 Feb 14 09:03 ..
+drwxr-xr-x  8 aldi.fahrezi StafCS 4096 Feb 14 09:04 .git
+-rw-r--r--  1 aldi.fahrezi StafCS    7 Feb 14 08:48 README.md
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 key
+-rw-r--r--  1 aldi.fahrezi StafCS    0 Feb 14 09:05 lab01.txt
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 log
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:58 sandbox
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 09:03 week00
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:51 week01
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:51 week02
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:51 week03
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:51 week04
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:51 week05
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 week06
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 week07
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 week08
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 week09
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 week10
+drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 xtra
+/home/fasilkom/mahasiswa/a/aldi.fahrezi/os171/week01
