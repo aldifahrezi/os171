@@ -1,0 +1,3 @@
+Tasks from week 1 - Intro to CLI:
+1. Create lab01.txt containing the directory listing and working directory (by using output redirection both > and >>)
+2. Create Expectation file (myExpectation.txt) and update the content directly from GitHub
