@@ -20,3 +20,4 @@ drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 week09
 drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 week10
 drwxr-xr-x  2 aldi.fahrezi StafCS 4096 Feb 14 08:52 xtra
 /home/fasilkom/mahasiswa/a/aldi.fahrezi/os171/week01
+Today is 14 Feb 2017 at 09:25:28
