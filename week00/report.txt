@@ -1,0 +1,6 @@
+Last week task is to:
+1. Create google account
+2. Create GitHub account
+3. Create os171 repo on GitHub
+4. Fill out form for gathering account ids
+5. Wait 24 hours for confirmation then ssh to badak server
