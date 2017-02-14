@@ -1,1 +1,5 @@
 #aldifahrezi
+
+I expect to learn about how operating systems work, and how I can apply that knowledge to my daily life (scripting will help a lot).
+I also expect to learn about the Linux kernel and the newest software often used in Linux (Ubuntu 16.04) such as systemd init service.
+Mostly things that are useful for DevOps or IT Operations.
