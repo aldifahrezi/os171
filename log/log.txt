@@ -13,3 +13,8 @@ w06-170415-09-LR-Learn forking on the internet
 w06-170415-10-PS-Work on week06 task
 w06-170415-10-PS-Work on week06 task
 w06-170415-11-PS-Work on week06 task
+w07-170422-10-LR-Learn synchronization
+w07-170422-11-LR-Learn semaphore and mutex
+w07-170422-11-LR-Learn semaphore and mutex
+w07-170422-12-PS-Work on week07 task
+w07-170422-13-PS-Work on week07 task
