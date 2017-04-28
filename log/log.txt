@@ -18,3 +18,5 @@ w07-170422-11-LR-Learn semaphore and mutex
 w07-170422-11-LR-Learn semaphore and mutex
 w07-170422-12-PS-Work on week07 task
 w07-170422-13-PS-Work on week07 task
+w08-170428-20-PS-Work on week08 task
+w08-170428-20-PS-Work on week08 task
